@@ -1,2 +1,2 @@
 # Resources
-This Is Where Prpject Raw Text And Assets Go
+This Is Where Project Raw Text And Assets Go
